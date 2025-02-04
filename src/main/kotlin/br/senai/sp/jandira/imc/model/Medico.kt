@@ -19,7 +19,8 @@ class Medico {
             println("-> $especialidade")
         }
 
-        println("====================================")
+
+
     }
 
 
